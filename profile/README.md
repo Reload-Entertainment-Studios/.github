@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
+We are Reload Entertainment Studios; We have multiple resources people can access such as VPN, Game development, Music, Graphical designs, and Stream support. Our community supports one and another and always hangs out and plays video games as well within everything thats going around. We also have a podcast that we discuss video games and future games that are coming out. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Website**- https://teamreloadedconten.wixsite.com/reload-entertainment
+**Discord**- https://discord.gg/reloadentstudios
+**Twitter**- https://twitter.com/ReloadEntStudio
+**Podcast**-https://anchor.fm/reloadentertainmentstudio
